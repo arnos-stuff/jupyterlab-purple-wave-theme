@@ -7,9 +7,9 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "",
+    "homepage": "https://github.com/arnos-stuff/jupyterlab-purple-wave-theme",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/arnos-stuff/jupyterlab-purple-wave-theme"
     },
     "license": "BSD-3-Clause",
     "author": {
@@ -24,7 +24,7 @@
     "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/arnos-stuff/jupyterlab-purple-wave-theme.git"
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
