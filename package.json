@@ -7,9 +7,9 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://github.com/mohirio/jupyterlab-horizon-theme",
+    "homepage": "",
     "bugs": {
-        "url": "https://github.com/mohirio/jupyterlab-horizon-theme/issues"
+        "url": ""
     },
     "license": "BSD-3-Clause",
     "author": {
@@ -24,7 +24,7 @@
     "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mohirio/jupyterlab-horizon-theme.git"
+        "url": ""
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
